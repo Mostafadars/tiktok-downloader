@@ -1,0 +1,6 @@
+flask
+requests
+beautifulsoup4
+werkzeug
+flask-cors
+flask-lambda  # for lambda-style compatibility
